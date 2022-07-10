@@ -1,0 +1,4 @@
+Ignorko
+
+# this will ignore the secrets file from commit
+# you can use *.txt to ignore all text files
